@@ -1,4 +1,4 @@
-package charpt1;
+package charpt1_1;
 
 public class Ex_1_1_08 {
 	public static void main (String[] args) {

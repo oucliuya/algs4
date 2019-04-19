@@ -5,4 +5,4 @@
  * @author liuya
  *
  */
-package charpt2;
+package charpt1_2;
